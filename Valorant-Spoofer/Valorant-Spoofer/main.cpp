@@ -9,7 +9,6 @@ int main() {
 
     SetConsoleTitleA(utils::randstr(32).c_str());
 
-    std::cout << _xor_("Developed By Dippe") << std::endl;
     std::cout << _xor_("Starting The Hwid Spoof Process") << std::endl;
 
     Sleep(2000);
